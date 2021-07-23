@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 
-## About me ![imgdai-photos](https://user-images.githubusercontent.com/77757301/126849877-5b5cf58e-e0a7-4ce1-9a43-57e35e9e6275.png)
+## About me 
 
 
 
