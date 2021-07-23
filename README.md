@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeFeliciano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## About me
@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianeFeliciano&theme=dark&show_icons=true) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeFeliciano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - Thanks for visiting.
 
