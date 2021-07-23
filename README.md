@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 :house_with_garden: I’m from Brazil.
 
 :books: I'm in the last year of my bachelor's degree in Administration
-        And the seconds year of IT
+:books: And the seconds year of IT
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
