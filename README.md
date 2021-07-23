@@ -1,5 +1,4 @@
 
-
 <!--
 **DaianeFeliciano/DaianeFeliciano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,6 +30,8 @@ Here are some ideas to get you started:
 
 
 ## About me
+
+![daianerose1](https://user-images.githubusercontent.com/77757301/126849397-382e166e-2d5f-484a-b5a9-7795f0c4bc8f.png)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DaianeFeliciano)](https://github.com/DaianeFeliciano)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-santana-268a93208/)](https://www.linkedin.com/in/daiane-santana-268a93208/)
