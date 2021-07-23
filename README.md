@@ -14,3 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Welcome!
+
+ 
+
+## I'm Daiane!
+
+ 
+
+:computer: Full Stack Developer in training!
+
+:house_with_garden: I’m from Brazil.
+
+:books: I'm in the last year of my bachelor's degree in Administration
+        And the seconds year of IT
+
+:outbox_tray: 2021 Goals: create a new project and find a new job.
+
+ 
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)](https://github.com/DaianeFeliciano)
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)]( https://www.linkedin.com/in/daiane-santana-268a93208/)
+
+
+
+- Thanks for visiting.
+
+- Enjoy it!! o/
