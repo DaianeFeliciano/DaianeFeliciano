@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 
-## About me 
+## About me ![image](https://user-images.githubusercontent.com/77757301/126851146-3a5e91a1-4c76-47cf-af5c-c99df59ee7d7.png)
+
 
 
 
