@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
- ! [Estatísticas do GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = DaianeFeliciano & theme = dark & ​​show_icons = true )
+
 
 
 ## About me
