@@ -36,7 +36,7 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DaianeFeliciano)](https://github.com/DaianeFeliciano)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-santana-268a93208/)](https://www.linkedin.com/in/daiane-santana-268a93208/)
-[![Microsoft_Outlook Badge](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=daianesantana_f@hotmail.com)](daianesantana_f@hotmail.com)
+<img height = "30" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=daianesantana_f@hotmail.com">
 
 ![Mario_Gameplay](https://user-images.githubusercontent.com/77757301/126851304-b4833ae1-1930-4eb9-9f11-df93079eb40b.gif)
 
