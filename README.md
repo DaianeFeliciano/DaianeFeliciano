@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  
 
-:computer: Full Stack Developer in training!   ![Super_Mario](https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif)
+:computer: Full Stack Developer in training!   
 
 :house_with_garden: I’m from Brazil.
 
@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeFeliciano&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Super_Mario](https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif)
 
 
 
