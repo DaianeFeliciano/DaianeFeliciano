@@ -44,7 +44,8 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianeFeliciano&theme=dark&show_icons=true) -->
 
-## Technology Stack
+## Technology Stack <code><img height="20" src="https://user-images.githubusercontent.com/77757301/126855288-0264f667-f8be-4c1d-9fe0-d0049d751dba.gif"</code>
+
 
 
 <code><img height="20" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
