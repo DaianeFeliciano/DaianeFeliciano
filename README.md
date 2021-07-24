@@ -69,8 +69,6 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 
 [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:daianesantana_f@hotmail.com)](mailto:daianesantana_f@hotmail.com)
 
-- Thanks for visiting.  <img height = "30" src="https://user-images.githubusercontent.com/77757301/126854633-2ea36e84-85fe-4771-8544-8bcf7923e5b7.gif">
-
-
+- Thanks for visiting.  <img height = "30" src="https://user-images.githubusercontent.com/77757301/126854769-66e91a26-adb2-4d80-a040-043cbc4cf340.gif">
 
 - Enjoy it!! <img height = "30" src="https://user-images.githubusercontent.com/77757301/126854097-35906fe0-3739-4f15-bc92-02b346f14140.gif">
