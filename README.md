@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 
 ## About me 
 
+![Super_Mario](https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif)
 
 
 
