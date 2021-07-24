@@ -64,11 +64,12 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 <code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeFeliciano&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <code><img height="164" src="https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif"></code>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeFeliciano&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <code><img height="164" src="https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif"></code> <code><img height="164" src="https://user-images.githubusercontent.com/77757301/126855762-e7e91d00-420a-4d28-bb20-091420708140.gif"></code>
+
 
 ## Send me <img height = "30" src="https://user-images.githubusercontent.com/77757301/126852088-ad149b41-812f-4f7d-9dc6-332e4a712342.gif">
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:daianesantana_f@hotmail.com)](mailto:daianesantana_f@hotmail.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:daianesantana_f@hotmail.com)](mailto:daianesantana_f@hotmail.com) 
 
 - Thanks for visiting.  <img height = "30" src="https://user-images.githubusercontent.com/77757301/126855090-5eb2d152-2121-46f7-a259-b0dd3d365d93.png">
 
