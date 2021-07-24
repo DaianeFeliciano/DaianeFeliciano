@@ -64,7 +64,7 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 <code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"></code>
 
-<code><img height="164" src="https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif"></code>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeFeliciano&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <code><img height="164" src="https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif"></code>
 
 
 ## Send me <img height = "30" src="https://user-images.githubusercontent.com/77757301/126852088-ad149b41-812f-4f7d-9dc6-332e4a712342.gif">
