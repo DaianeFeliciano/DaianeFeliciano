@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
  
 
-:computer: Full Stack Developer in training!
+:computer: Full Stack Developer in training!   ![Super_Mario](https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif)
 
 :house_with_garden: I’m from Brazil.
 
@@ -34,7 +34,8 @@ Here are some ideas to get you started:
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DaianeFeliciano)](https://github.com/DaianeFeliciano)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-santana-268a93208/)](https://www.linkedin.com/in/daiane-santana-268a93208/)
 
-![Super_Mario](https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif)
+![Mario_Gameplay](https://user-images.githubusercontent.com/77757301/126851304-b4833ae1-1930-4eb9-9f11-df93079eb40b.gif)
+
 
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianeFeliciano&theme=dark&show_icons=true) -->
