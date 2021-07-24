@@ -31,12 +31,11 @@ Here are some ideas to get you started:
 
 ## About me 
 
-![Super_Mario](https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif)
-
-
-
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DaianeFeliciano)](https://github.com/DaianeFeliciano)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-santana-268a93208/)](https://www.linkedin.com/in/daiane-santana-268a93208/)
+
+![Super_Mario](https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif)
+
 <!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaianeFeliciano&theme=dark&show_icons=true) -->
 
