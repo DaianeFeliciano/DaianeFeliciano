@@ -52,6 +52,11 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 <code><img height="20" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"></code>
+<code><img height="20" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black"></code>
+<code><img height="20" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"></code>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaianeFeliciano&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <code><img height="164" src="https://user-images.githubusercontent.com/77757301/126851233-dc431bfd-75c1-4d9c-a182-899cc9835592.gif"></code>
 
