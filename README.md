@@ -31,7 +31,8 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 :outbox_tray: 2021 Goals: create a new project and find a new job.
 
 
-## About me 
+## About me <img height = "15" src="https://user-images.githubusercontent.com/77757301/126852088-ad149b41-812f-4f7d-9dc6-332e4a712342.gif">
+
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/DaianeFeliciano)](https://github.com/DaianeFeliciano)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/daiane-santana-268a93208/)](https://www.linkedin.com/in/daiane-santana-268a93208/)
