@@ -15,7 +15,7 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 - ⚡ Fun fact: ...
 -->
 
-## Hello World <img height="20" src="https://user-images.githubusercontent.com/77757301/126855505-9d84626e-0c8c-4802-a9e0-c8608b32f785.gif"> I'm Daiane! <img height="24" src="https://user-images.githubusercontent.com/77757301/126851929-c44e3a90-6e70-4215-a7bd-10792434f3da.gif"> <img height="32" width=500 src= "https://user-images.githubusercontent.com/77757301/126886190-babb9674-1aa4-4371-9260-aac990389b9d.png">
+## Hello World <img height="20" src="https://user-images.githubusercontent.com/77757301/126855505-9d84626e-0c8c-4802-a9e0-c8608b32f785.gif"> I'm Daiane! <img height="24" src="https://user-images.githubusercontent.com/77757301/126851929-c44e3a90-6e70-4215-a7bd-10792434f3da.gif"> <img height="50" width=500 src= "https://user-images.githubusercontent.com/77757301/126886190-babb9674-1aa4-4371-9260-aac990389b9d.png">
 
 
 
