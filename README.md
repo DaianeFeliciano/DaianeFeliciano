@@ -29,7 +29,7 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 
 :books: And the second year of IT
 
-:outbox_tray: 2021 Goals: create a new project and find a new job.
+:outbox_tray: 2022 Goals: create a new project.
 
 
 ## About me <img height = "30" src="https://user-images.githubusercontent.com/77757301/126852088-ad149b41-812f-4f7d-9dc6-332e4a712342.gif">
