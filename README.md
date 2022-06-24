@@ -25,7 +25,7 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 
 :house_with_garden: I’m from Brazil.
 
-:books: I'm in the last year of my bachelor's degree in Administration
+:books: I'm graduated in a bachelor's degree in Administration
 
 :books: And the second year of IT
 
