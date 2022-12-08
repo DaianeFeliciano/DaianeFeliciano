@@ -63,7 +63,7 @@ Here are some ideas to get you started:![powerup](https://user-images.githubuser
 
 ## Send me <img height = "30" src="https://user-images.githubusercontent.com/77757301/126852088-ad149b41-812f-4f7d-9dc6-332e4a712342.gif">
 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:daianesantana_f@hotmail.com)](mailto:daianesantana_f@hotmail.com) 
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white&link=mailto:)](mailto:) 
 
 - Thanks for visiting.  <img height = "30" src="https://user-images.githubusercontent.com/77757301/126855090-5eb2d152-2121-46f7-a259-b0dd3d365d93.png">
 
